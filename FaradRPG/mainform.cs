@@ -126,6 +126,7 @@ namespace FaradRPG
             }
             if (e.KeyCode == Keys.Up)
             {
+            //
                 if (btnstart.ForeColor == System.Drawing.Color.Red)
                 {
                     btnstart.ForeColor = System.Drawing.Color.Black;
